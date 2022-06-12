@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+article {
+    padding: 0px 250px;
+}
+.im1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.im2 {
+    text-align: center;
+}
+.im3 {
+    text-align: center;
+}
